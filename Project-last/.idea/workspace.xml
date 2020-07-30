@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Project-last:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bd70560-a35e-4541-a02f-1c9db3591762" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="230" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/myFriend.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/nav.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="87" column="13" lean-forward="true" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/upload.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="42" column="67" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/register.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-414">
+              <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#doGet#0;class#register#0" />
+                <element signature="method#doRegister#0;class#register#0" />
+                <element signature="method#Register#0;class#register#0" />
+                <element signature="e#2898#3073#1" />
+                <element signature="e#3087#3272#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="142" column="6" lean-forward="true" selection-start-line="142" selection-start-column="1" selection-end-line="144" selection-end-column="5" />
+              <folding>
+                <element signature="n#c:if#0;n#jsp:root#0;n#!!top" />
+                <element signature="e#2566#2625#0#HTML" />
+                <element signature="e#2652#4967#0#HTML" />
+                <element signature="e#5010#5098#0#HTML" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/register.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="73" column="5" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
+              <folding>
+                <element signature="n#c:if#0;n#jsp:root#0;n#!!top" />
+                <element signature="e#3098#3157#0#HTML" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="AnnotationType" />
+        <option value="Jsp File" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/JavaBeans/TravelPicture.java" />
+        <option value="$PROJECT_DIR$/web/update.jsp" />
+        <option value="$PROJECT_DIR$/src/query.java" />
+        <option value="$PROJECT_DIR$/web/test.html" />
+        <option value="$PROJECT_DIR$/web/big.js" />
+        <option value="$PROJECT_DIR$/web/ShoppingDetail.js" />
+        <option value="$PROJECT_DIR$/web/big.css" />
+        <option value="$PROJECT_DIR$/web/static/detail/detail1.css" />
+        <option value="$PROJECT_DIR$/web/static/detail/detail.css" />
+        <option value="$PROJECT_DIR$/web/static/detail/Code.js" />
+        <option value="$PROJECT_DIR$/web/static/detail/detail.js" />
+        <option value="$PROJECT_DIR$/web/static/pattern/Code.js" />
+        <option value="$PROJECT_DIR$/web/code.js" />
+        <option value="$PROJECT_DIR$/web/static/pattern/code.js" />
+        <option value="$PROJECT_DIR$/web/code.css" />
+        <option value="$PROJECT_DIR$/src/searchTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaBeans/JsonFormat.java" />
+        <option value="$PROJECT_DIR$/src/databasesTools/JdbcTools.java" />
+        <option value="$USER_HOME$/Documents/WeChat Files/wxid_ptg7gfaw2y4n22/FileStorage/File/2020-07/RegisterServlet.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/JavaBeans/TravelImage.java" />
+        <option value="$PROJECT_DIR$/src/JavaBeans/Collect.java" />
+        <option value="$PROJECT_DIR$/src/myUpload.java" />
+        <option value="$PROJECT_DIR$/src/ExtendTools/ImageDaoJdbcTest.java" />
+        <option value="$PROJECT_DIR$/src/ExtendTools/CollectDaoJdbcTest.java" />
+        <option value="$PROJECT_DIR$/src/detail.java" />
+        <option value="$PROJECT_DIR$/src/upload.java" />
+        <option value="$PROJECT_DIR$/web/myImage.jsp" />
+        <option value="$PROJECT_DIR$/src/JavaBeans/friend.java" />
+        <option value="$PROJECT_DIR$/src/ExtendTools/CollectDaoJdbc.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/collection.java" />
+        <option value="$PROJECT_DIR$/src/ExtendTools/FriendDaoJdbc.java" />
+        <option value="$PROJECT_DIR$/src/ExtendTools/CustomerDaoJdbc.java" />
+        <option value="$PROJECT_DIR$/src/JavaBeans/Customer.java" />
+        <option value="$PROJECT_DIR$/src/ExtendTools/JsonDateValueProcessor.java" />
+        <option value="$PROJECT_DIR$/src/search.java" />
+        <option value="$PROJECT_DIR$/src/friend.java" />
+        <option value="$PROJECT_DIR$/web/home.jsp" />
+        <option value="$PROJECT_DIR$/web/search.jsp" />
+        <option value="$PROJECT_DIR$/web/myCollection.jsp" />
+        <option value="$PROJECT_DIR$/web/te.html" />
+        <option value="$PROJECT_DIR$/src/databasesTools/DAO.java" />
+        <option value="$PROJECT_DIR$/src/ExtendTools/ImageDaoJdbc.java" />
+        <option value="$PROJECT_DIR$/web/detail.jsp" />
+        <option value="$PROJECT_DIR$/web/upload.jsp" />
+        <option value="$PROJECT_DIR$/web/myFriend.jsp" />
+        <option value="$PROJECT_DIR$/web/nav.jsp" />
+        <option value="$PROJECT_DIR$/src/register.java" />
+        <option value="$PROJECT_DIR$/web/login.jsp" />
+        <option value="$PROJECT_DIR$/web/register.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="105" />
+    <option name="y" value="30" />
+    <option name="width" value="1750" />
+    <option name="height" value="975" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project-last" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project-last" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project-last" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project-last" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project-last" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project-last" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="databasesTools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project-last" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project-last" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ExtendTools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project-last" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project-last" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaBeans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project-last" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project-last" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project-last" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project-last" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project-last" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project-last" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../new" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ExtendTools" />
+      <recent name="" />
+      <recent name="databasesTools" />
+      <recent name="hello" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\Project-last\web\static\image" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\Project-last\web\static\pattern" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\Project-last\web\static\detail" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\Project-last\web\static\background" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\Project-last\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Customer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\Project-last\web\static\image" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\Project-last\web\static\background" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\Project-last\web\static\detail" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\Project-last\web" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\Project-last\web\static" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ExtendTools" />
+      <recent name="JavaBeans" />
+      <recent name="hello" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.home.jsp">
+    <configuration name="CollectDaoJdbcTest.addCollection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-last" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExtendTools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ExtendTools" />
+      <option name="MAIN_CLASS_NAME" value="ExtendTools.CollectDaoJdbcTest" />
+      <option name="METHOD_NAME" value="addCollection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectDaoJdbcTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-last" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExtendTools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ExtendTools" />
+      <option name="MAIN_CLASS_NAME" value="ExtendTools.CollectDaoJdbcTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageDaoJdbcTest.getMyImageCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-last" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExtendTools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ExtendTools" />
+      <option name="MAIN_CLASS_NAME" value="ExtendTools.ImageDaoJdbcTest" />
+      <option name="METHOD_NAME" value="getMyImageCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageDaoJdbcTest.getMyPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-last" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExtendTools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ExtendTools" />
+      <option name="MAIN_CLASS_NAME" value="ExtendTools.ImageDaoJdbcTest" />
+      <option name="METHOD_NAME" value="getMyPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageDaoJdbcTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-last" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExtendTools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ExtendTools" />
+      <option name="MAIN_CLASS_NAME" value="ExtendTools.ImageDaoJdbcTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="home.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.92" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/home.jsp" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <deployment>
+        <artifact name="Project-last:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Project-last" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="11610" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Project-last:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ImageDaoJdbcTest.test" />
+      <item itemvalue="JUnit.CollectDaoJdbcTest.addCollection" />
+      <item itemvalue="JUnit.CollectDaoJdbcTest.test" />
+      <item itemvalue="JUnit.ImageDaoJdbcTest.getMyImageCount" />
+      <item itemvalue="JUnit.ImageDaoJdbcTest.getMyPage" />
+      <item itemvalue="Tomcat Server.home.jsp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ImageDaoJdbcTest.test" />
+        <item itemvalue="JUnit.ImageDaoJdbcTest.getMyPage" />
+        <item itemvalue="JUnit.ImageDaoJdbcTest.getMyImageCount" />
+        <item itemvalue="JUnit.CollectDaoJdbcTest.test" />
+        <item itemvalue="JUnit.CollectDaoJdbcTest.addCollection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bd70560-a35e-4541-a02f-1c9db3591762" name="Default Changelist" comment="" />
+      <created>1594561022974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594561022974</updated>
+      <workItem from="1594561025876" duration="4076000" />
+      <workItem from="1594565120840" duration="9936000" />
+      <workItem from="1594647682644" duration="560000" />
+      <workItem from="1594648254555" duration="3119000" />
+      <workItem from="1594688098900" duration="2838000" />
+      <workItem from="1594737370900" duration="1204000" />
+      <workItem from="1594779133349" duration="1197000" />
+      <workItem from="1594794950456" duration="13336000" />
+      <workItem from="1594864311761" duration="6030000" />
+      <workItem from="1594952130534" duration="10631000" />
+      <workItem from="1595060306824" duration="8898000" />
+      <workItem from="1595118569499" duration="13052000" />
+      <workItem from="1595290322207" duration="19830000" />
+      <workItem from="1595384704420" duration="13388000" />
+      <workItem from="1595465231960" duration="14952000" />
+      <workItem from="1595552896275" duration="23105000" />
+      <workItem from="1595637735239" duration="26393000" />
+      <workItem from="1595722472781" duration="2233000" />
+      <workItem from="1595749947224" duration="14134000" />
+      <workItem from="1595814113653" duration="51397000" />
+      <workItem from="1595979983357" duration="11193000" />
+      <workItem from="1596008157587" duration="18151000" />
+      <workItem from="1596032531291" duration="4541000" />
+      <workItem from="1596068641171" duration="14790000" />
+      <workItem from="1596103770848" duration="2197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ImageDaoJdbcTest_getMyImageCount - 2020.07.28 at 17h 12m 48s.xml">
+      <configuration name="ImageDaoJdbcTest.getMyImageCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageDaoJdbcTest_getMyImageCount - 2020.07.28 at 17h 12m 55s.xml">
+      <configuration name="ImageDaoJdbcTest.getMyImageCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageDaoJdbcTest_getMyPage - 2020.07.28 at 17h 14m 13s.xml">
+      <configuration name="ImageDaoJdbcTest.getMyPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageDaoJdbcTest_getMyPage - 2020.07.28 at 17h 15m 06s.xml">
+      <configuration name="ImageDaoJdbcTest.getMyPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageDaoJdbcTest_getMyPage - 2020.07.28 at 17h 15m 44s.xml">
+      <configuration name="ImageDaoJdbcTest.getMyPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageDaoJdbcTest_getMyPage - 2020.07.28 at 17h 17m 16s.xml">
+      <configuration name="ImageDaoJdbcTest.getMyPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageDaoJdbcTest_getMyPage - 2020.07.28 at 17h 18m 11s.xml">
+      <configuration name="ImageDaoJdbcTest.getMyPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageDaoJdbcTest_getMyPage - 2020.07.28 at 17h 19m 00s.xml">
+      <configuration name="ImageDaoJdbcTest.getMyPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageDaoJdbcTest_test - 2020.07.28 at 17h 30m 48s.xml">
+      <configuration name="ImageDaoJdbcTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageDaoJdbcTest_test - 2020.07.28 at 17h 31m 03s.xml">
+      <configuration name="ImageDaoJdbcTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="291181000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.492" visible="true" weight="0.20375335" />
+      <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.24664879" />
+      <window_info id="Web" order="2" sideWeight="0.508" side_tool="true" weight="0.20107238" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25884017" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29278642" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.33380482" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4964539" visible="true" weight="0.19034852" />
+      <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.24664879" />
+      <window_info id="Web" order="2" sideWeight="0.5035461" side_tool="true" weight="0.211126" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25884017" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28854313" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.33380482" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_last$Tomcat_7_0_92.ic" NAME="Tomcat 7.0.92 Coverage Results" MODIFIED="1594564265835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Project_last$register.ic" NAME="register Coverage Results" MODIFIED="1594565088872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/static/detail/detail1.css" />
+    <entry file="file://$PROJECT_DIR$/web/static/pattern/detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#28#1693#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/pattern/code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/searchTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaBeans/JsonFormat.java" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_ptg7gfaw2y4n22/FileStorage/File/2020-07/RegisterServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="47" column="17" lean-forward="true" selection-start-line="1" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databasesTools/JdbcTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/image/7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/code.css" />
+    <entry file="file://$PROJECT_DIR$/src/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/ExtendTools/ImageDaoJdbcTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaBeans/TravelImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExtendTools/CollectDaoJdbcTest.java" />
+    <entry file="file://$PROJECT_DIR$/web/static/image/11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/image/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/myImage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="66" column="28" lean-forward="true" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
+          <folding>
+            <element signature="e#3153#4197#0#HTML" />
+            <element signature="e#4351#5799#0#HTML" />
+            <element signature="e#5818#5950#0#HTML" />
+            <element signature="e#5970#5991#0#HTML" />
+            <element signature="e#6024#6188#0#HTML" />
+            <element signature="e#6216#6509#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="65" column="33" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBeans/Friend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBeans/Collect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExtendTools/FriendDaoJdbc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBeans/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="method#Customer#1;class#Customer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExtendTools/CustomerDaoJdbc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#isRegister#0;class#CustomerDaoJdbc#0" />
+            <element signature="method#getUID#0;class#CustomerDaoJdbc#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExtendTools/CollectDaoJdbc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addCollection#0;class#CollectDaoJdbc#0" />
+            <element signature="method#show#0;class#CollectDaoJdbc#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExtendTools/JsonDateValueProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/friend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1036">
+          <caret line="51" column="57" selection-start-line="51" selection-start-column="57" selection-end-line="51" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/background/0-7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/background/0-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/background/0-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/background/0-3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/background/0-4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/background/0-6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/background/0-5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/search.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1863">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/te.html" />
+    <entry file="file://$PROJECT_DIR$/src/search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/upload.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="68" column="15" lean-forward="true" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
+          <folding>
+            <element signature="n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#c:when#1;n#c:choose#0;n#jsp:root#0;n#!!top" />
+            <element signature="n#c:otherwise#0;n#c:choose#0;n#jsp:root#0;n#!!top" />
+            <element signature="e#7408#9423#0#HTML" />
+            <element signature="e#9449#10467#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/detail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="126" column="9" selection-start-line="126" selection-start-column="9" selection-end-line="126" selection-end-column="9" />
+          <folding>
+            <element signature="n#c:if#0;n#c:if#0;n#jsp:root#0;n#!!top" />
+            <element signature="e#4821#4989#1#JAVA" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExtendTools/ImageDaoJdbc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="29" column="97" selection-start-line="29" selection-start-column="97" selection-end-line="29" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getHeat#0;class#ImageDaoJdbc#0" />
+            <element signature="method#getNewest#0;class#ImageDaoJdbc#0" />
+            <element signature="method#getById#0;class#ImageDaoJdbc#0" />
+            <element signature="method#getSearch#0;class#ImageDaoJdbc#0" />
+            <element signature="e#1506#1699#1" />
+            <element signature="e#1703#1894#1" />
+            <element signature="method#getCount#0;class#ImageDaoJdbc#0" />
+            <element signature="method#getCollections#0;class#ImageDaoJdbc#0" />
+            <element signature="method#getMyImageCount#0;class#ImageDaoJdbc#0" />
+            <element signature="method#getMyPage#0;class#ImageDaoJdbc#0" />
+            <element signature="method#deleteByImageID#0;class#ImageDaoJdbc#0" />
+            <element signature="method#insert#0;class#ImageDaoJdbc#0" />
+            <element signature="method#change#0;class#ImageDaoJdbc#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/myCollection.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databasesTools/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#DAO#0;class#DAO#0" />
+            <element signature="method#update#0;class#DAO#0" />
+            <element signature="method#get#0;class#DAO#0" />
+            <element signature="method#getForList#0;class#DAO#0" />
+            <element signature="method#getForValue#0;class#DAO#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/detail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/myFriend.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/nav.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="87" column="13" lean-forward="true" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/upload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="42" column="67" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#doGet#0;class#register#0" />
+            <element signature="method#doRegister#0;class#register#0" />
+            <element signature="method#Register#0;class#register#0" />
+            <element signature="e#2898#3073#1" />
+            <element signature="e#3087#3272#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="142" column="6" lean-forward="true" selection-start-line="142" selection-start-column="1" selection-end-line="144" selection-end-column="5" />
+          <folding>
+            <element signature="n#c:if#0;n#jsp:root#0;n#!!top" />
+            <element signature="e#2566#2625#0#HTML" />
+            <element signature="e#2652#4967#0#HTML" />
+            <element signature="e#5010#5098#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="73" column="5" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
+          <folding>
+            <element signature="n#c:if#0;n#jsp:root#0;n#!!top" />
+            <element signature="e#3098#3157#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <last-edited>TomEE Remote|Remote</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|Project-last</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,93 @@
+
+#demo {
+    width: 38%;
+    margin: 150px 0 0 50px;
+}
+
+#container {
+    display: block;
+    width: 400px;
+    height: 300px;
+    position: relative;
+}
+
+#smallBox {
+    position: relative;
+    z-index: 1;
+}
+
+#smallBox img {
+    height: 300px;
+    width: 400px;
+}
+
+#floatBox {
+    display: none;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color: yellow;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    cursor: move;
+}
+
+#markBox {
+    position: absolute;
+    display: block;
+    height: 300px;
+    width: 400px;
+    background: #ffffff;
+    filter: alpha(0);
+    opacity: 0;
+    z-index: 10;
+    cursor: move;
+}
+
+#bigBox {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 330px;
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+    z-index: 1;
+    margin-left: 90px;
+
+}
+
+#bigBox img {
+    position: absolute;
+    z-index: 5;
+    width: 1200px;
+    height: 900px;
+
+}
+
+
+
+#table{
+    margin-top: 0;
+    margin-left: 3%;
+    font-style: italic;
+    text-align: center;
+    border-bottom: 0;
+}
+#table1
+{
+    border: gainsboro solid thick;
+    width: 25em;
+    border-collapse:collapse;
+    margin-top: 0;
+    background-color: white;
+}
+#table1 tr{
+    border-bottom: 1px solid cadetblue;
+}
+td{
+    padding: 0.5em ;
+}
+th{
+    background-color: beige;
+}
